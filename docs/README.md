@@ -10,6 +10,12 @@ Start here when creating, refining, documenting, splitting, or promoting ProtoKi
 - `DECISIONS-2026-06-DSK-COMPOSITION.md` — decision records for the DSK composition upgrade.
 - `CHANGELOG-2026-06-DSK-COMPOSITION-UPGRADE.md` — detailed changelog for the June 2026 composition pass.
 
+## Visual identity
+
+- `visual-identity.md` - repository image concept, palette, asset contract, and
+  usage guidance.
+- `assets/brand/README.md` - generated asset index and regeneration boundary.
+
 ## Architecture
 
 - `DSM-ARCHITECTURE.md` — Domain Service Module architecture.

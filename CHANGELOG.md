@@ -2,6 +2,21 @@
 
 All notable ProtoKits documentation, compatibility, and composition-layer changes are recorded here.
 
+## 2026-07-30 - Repository visual identity
+
+### Added
+
+- A reusable repository mark, editable mask, cover, and social card under
+  `docs/assets/brand/`.
+- A versioned image manifest with source hashes, derived-asset hashes,
+  dimensions, and alpha validation.
+- Visual-identity guidance at `docs/visual-identity.md`.
+
+### Scope
+
+- Documentation and documentation assets only.
+- No package, runtime, export, kit, test, or workflow behavior changed.
+
 ## 2026-06-24 — Project/high-fidelity naming migration
 
 ### Added

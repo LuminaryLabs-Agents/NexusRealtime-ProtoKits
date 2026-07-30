@@ -14,3 +14,6 @@ Status: active
 - 2026-07-09 18:37:43 America/New_York - Canonicalized the three-kit registry control plane, merged duplicate registry feature surfaces under one owner with aliases, added dependency/cycle/order planning, repaired 1,000-manifest batching, and recorded stable-promotion evidence and adapter boundaries.
 - 2026-07-09 19:52:00 America/New_York - Converted `protokit-core` into a native stateless compatibility DSK, preserved its full utility API, mapped canonical replacements to NexusEngine, and gated promotion to deprecated status with deterministic parity proof.
 - 2026-07-09 20:23:18 America/New_York - Rebuilt `generic-seed-kit` as a native world-seed and bounded named-stream DSK, preserved generic compatibility aliases, and added deterministic core parity, replay, snapshot, and 1,000-stream promotion proof.
+- 2026-07-30 America/New_York - Added and validated the documentation-owned
+  repository mark, editable mask, cover, social card, asset manifest, and visual
+  identity guide without changing runtime behavior.
