@@ -1,5 +1,7 @@
 # NexusEngine ProtoKits
 
+![NexusEngine ProtoKits modular domain foundry](docs/assets/brand/social-card.png)
+
 NexusEngine ProtoKits is the proving ground for the NexusEngine operating system.
 
 This repository exists so agents and humans can build, split, test, and refine reusable game and simulation domains before stable capabilities promote into `NexusEngine-Kits`.
